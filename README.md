@@ -30,6 +30,14 @@ The dataset contains vegetarian recipes with:
 - Microsoft Excel (data preparation & scoring)
 - Power BI (dashboard & visualization)
 
+## 📁 Project Files
+- ![Dasboard](Foodoscope_dashboard.pbix)  
+  👉 Download and open in **Power BI Desktop** to explore the interactive dashboard.
+
+- ![excel](foodoscope_personalized_engine.xlsx)  
+  👉 Download and open in **Microsoft Excel** to view the cleaned and structured dataset.
+
+
 ## Dashboard Preview
 ![Dashboard](foodoscope_dashboard.png)
 
