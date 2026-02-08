@@ -31,7 +31,7 @@ The dataset contains vegetarian recipes with:
 - Power BI (dashboard & visualization)
 
 ## Dashboard Preview
-![Dashboard](Dashboard(2).png)
+![Dashboard](foodoscopedashboard.png)
 
 ## Author
 JASHWANTH RAMADUGU
